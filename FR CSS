@@ -1,0 +1,34 @@
+h1 {
+  color: #767171;
+  font-family: "Arial";
+  text-align: center;
+}
+.box1 {
+  height: 500px;
+  width: 575px;
+  color: #767171;
+  text-align: center; 
+  background: #D6DDEA;
+  border: #403D3D 1px solid;
+  overflow: auto;
+  float: left;
+  border-radius: 10px;
+}
+
+.box2 {
+  border: #403D3D 1px solid;
+  height: 500px;
+  width: 700px;
+  float: right;
+  border-radius: 10px;
+  background: #D6DDEA;
+}
+
+a:link, a:visited {
+  color: #767171;
+  padding: 7px 8px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
